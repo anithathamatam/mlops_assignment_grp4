@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ANITHA/Documents/GitHub/mlops_assignment_grp4/code/../mlruns/505102544461033063/models/m-fe1ffb6ddede416ba4f41f5b9620417b/artifacts
+creation_timestamp: 1753533415621
+experiment_id: '505102544461033063'
+last_updated_timestamp: 1753533425293
+model_id: m-fe1ffb6ddede416ba4f41f5b9620417b
+model_type: null
+name: model
+source_run_id: 4e117e1c7caf4ffd81905281e6c4f1f7
+status: 2
+status_message: null

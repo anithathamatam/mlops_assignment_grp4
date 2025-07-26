@@ -18,10 +18,10 @@ def preprocess_data(df):
     return df_scaled
 
 def save_data(df_raw, df_processed):
-    os.makedirs('data/raw', exist_ok=True)
-    os.makedirs('data/processed', exist_ok=True)
-    df_raw.to_csv('data/raw/iris.csv', index=False)
-    df_processed.to_csv('data/processed/iris_scaled.csv', index=False)
+    os.makedirs('../dataset/raw', exist_ok=True)
+    os.makedirs('../dataset/processed', exist_ok=True)
+    df_raw.to_csv('../dataset/raw/iris.csv', index=False)
+    df_processed.to_csv('../dataset/processed/iris_scaled.csv', index=False)
 
 if __name__ == "__main__":
     raw_df = load_data()
