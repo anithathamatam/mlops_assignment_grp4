@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/ANITHA/Documents/GitHub/mlops_assignment_grp4/code/../mlruns/505102544461033063
+creation_time: 1753532862770
+experiment_id: '505102544461033063'
+last_update_time: 1753532862770
+lifecycle_stage: active
+name: iris_classification

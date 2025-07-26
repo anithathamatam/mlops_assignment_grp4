@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ANITHA/Documents/GitHub/mlops_assignment_grp4/code/../mlruns/505102544461033063/8ab62bb2d4a04ecd876131deb6787d39/artifacts
+end_time: 1753535183031
+entry_point_name: ''
+experiment_id: '505102544461033063'
+lifecycle_stage: active
+run_id: 8ab62bb2d4a04ecd876131deb6787d39
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753535176768
+status: 3
+tags: []
+user_id: ANITHA

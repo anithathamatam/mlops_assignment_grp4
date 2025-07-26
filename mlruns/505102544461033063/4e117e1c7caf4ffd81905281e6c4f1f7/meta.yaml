@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ANITHA/Documents/GitHub/mlops_assignment_grp4/code/../mlruns/505102544461033063/4e117e1c7caf4ffd81905281e6c4f1f7/artifacts
+end_time: 1753533425346
+entry_point_name: ''
+experiment_id: '505102544461033063'
+lifecycle_stage: active
+run_id: 4e117e1c7caf4ffd81905281e6c4f1f7
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753533415100
+status: 3
+tags: []
+user_id: ANITHA

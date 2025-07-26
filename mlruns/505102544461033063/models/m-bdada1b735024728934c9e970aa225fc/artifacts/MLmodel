@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/ANITHA/Documents/GitHub/mlops_assignment_grp4/code/../mlruns/505102544461033063/models/m-bdada1b735024728934c9e970aa225fc/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.18
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.1.4
+model_id: m-bdada1b735024728934c9e970aa225fc
+model_size_bytes: 174176
+model_uuid: m-bdada1b735024728934c9e970aa225fc
+prompts: null
+run_id: 8ab62bb2d4a04ecd876131deb6787d39
+utc_time_created: '2025-07-26 13:06:17.186495'
